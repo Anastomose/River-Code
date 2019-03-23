@@ -1,0 +1,3696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 5.07" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<metadata>
+<link href="http://www.garmin.com">
+<text>Garmin International</text>
+</link>
+<bounds minlat="40.44547490" minlon="-109.26895790" maxlat="40.74455430" maxlon="-108.51170320"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:37:43.340Z</time>
+</extensions>
+</metadata>
+<wpt lat="40.46764080" lon="-108.57492030">
+<ele>1694.688</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-ANDERSON</name>
+<cmt>Anderson Camp</cmt>
+<desc>Anderson Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-ANDERSON</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51304080" lon="-109.13238050">
+<time>2009-05-02T03:25:08Z</time>
+<name>C-BIGISLND</name>
+<cmt>Big Island Camp</cmt>
+<desc>Big Island Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-BIGISLND</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49202890" lon="-108.81427390">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-BIGJOE</name>
+<cmt>Big Joe Camp</cmt>
+<desc>Big Joe Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-BIGJOE</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51991530" lon="-108.95706500">
+<ele>1548.689</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-BOXELDR1</name>
+<cmt>Box Elder Camp #1</cmt>
+<desc>Box Elder Camp #1</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-BOXELDR1</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52082380" lon="-108.95926030">
+<ele>1550.518</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-BOXELDR2</name>
+<cmt>Box Elder Camp #2</cmt>
+<desc>Box Elder Camp #2</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-BOXELDR2</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52175830" lon="-108.95905730">
+<ele>1553.870</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-BOXELDR3</name>
+<cmt>Box Elder Camp #3</cmt>
+<desc>Box Elder Camp #3</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-BOXELDR3</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53864300" lon="-109.07656480">
+<ele>1534.973</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-CMPRMISE</name>
+<cmt>Compromise Camp</cmt>
+<desc>Compromise Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-CMPRMISE</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46624480" lon="-108.84213300">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-HARDHOL1</name>
+<cmt>Harding Hole Camp #1</cmt>
+<desc>Harding Hole Camp #1</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-HARDHOL1</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46550320" lon="-108.84332610">
+<time>2009-05-02T03:35:58Z</time>
+<name>C-HARDHOL2</name>
+<cmt>Harding Hole Camp #2</cmt>
+<desc>Harding Hole Camp #2</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-HARDHOL2</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46524030" lon="-108.84423520">
+<time>2009-05-02T03:36:03Z</time>
+<name>C-HARDHOL3</name>
+<cmt>Harding Hole Camp #3</cmt>
+<desc>Harding Hole Camp #3</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-HARDHOL3</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46493370" lon="-108.84761130">
+<time>2009-05-02T03:35:47Z</time>
+<name>C-HARDHOL4</name>
+<cmt>Harding Hole Camp #4</cmt>
+<desc>Harding Hole Camp #4</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-HARDHOL4</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52180270" lon="-109.15250140">
+<time>2009-05-02T03:26:15Z</time>
+<name>C-ISLDPARK</name>
+<cmt>Island Park Camp</cmt>
+<desc>Island Park Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-ISLDPARK</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54088940" lon="-109.05894180">
+<ele>1537.411</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-JONZHOL1</name>
+<cmt>Jones Hole Camp #1</cmt>
+<desc>Jones Hole Camp #1</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-JONZHOL1</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54012520" lon="-109.06082890">
+<ele>1536.802</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-JONZHOL2</name>
+<cmt>Jones Hole Camp #2</cmt>
+<desc>Jones Hole Camp #2</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-JONZHOL2</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54006570" lon="-109.06199470">
+<ele>1537.411</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-JONZHOL3</name>
+<cmt>Jones Hole Camp #3</cmt>
+<desc>Jones Hole Camp #3</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-JONZHOL3</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54038000" lon="-109.06675350">
+<ele>1543.507</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-JONZHOL4</name>
+<cmt>Jones Hole Camp #4</cmt>
+<desc>Jones Hole Camp #4</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-JONZHOL4</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.62206320" lon="-108.94445530">
+<ele>1599.590</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-KOLB</name>
+<cmt>Kolb Camp</cmt>
+<desc>Kolb Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-KOLB</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47908480" lon="-108.90802260">
+<time>2009-05-02T03:38:39Z</time>
+<name>C-LADDIE1</name>
+<cmt>Laddie Park Camp #1</cmt>
+<desc>Laddie Park Camp #1</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-LADDIE1</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48030600" lon="-108.90872460">
+<time>2009-05-02T03:38:43Z</time>
+<name>C-LADDIE2</name>
+<cmt>Laddie Park Camp #2</cmt>
+<desc>Laddie Park Camp #2</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-LADDIE2</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.55856970" lon="-108.96308510">
+<time>2009-05-02T03:18:02Z</time>
+<name>C-LIMESTON</name>
+<cmt>Limestone Camp</cmt>
+<desc>Limestone Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-LIMESTON</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47121820" lon="-108.87005950">
+<ele>1590.751</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-MATHERS</name>
+<cmt>Mathers Hole Camp</cmt>
+<desc>Mathers Hole Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-MATHERS</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46386020" lon="-108.63373860">
+<ele>1683.106</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-PONDROSA</name>
+<cmt>Ponderosa Camp</cmt>
+<desc>Ponderosa Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-PONDROSA</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.63231510" lon="-108.94061790">
+<ele>1610.563</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-POTCRK1</name>
+<cmt>Pot Creek Camp #1</cmt>
+<desc>Pot Creek Camp #1</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-POTCRK1</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.62968830" lon="-108.94242950">
+<time>2009-05-02T03:11:23Z</time>
+<name>C-POTCRK2</name>
+<cmt>Pot Creek Camp #2</cmt>
+<desc>Pot Creek Camp #2</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-POTCRK2</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.58670300" lon="-108.98476530">
+<ele>1579.169</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-RIPPBR1</name>
+<cmt>Rippling Brook Camp #1</cmt>
+<desc>Rippling Brook Camp #1</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-RIPPBR1</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.58499440" lon="-108.98359090">
+<ele>1560.576</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-RIPPBR2</name>
+<cmt>Rippling Brook Camp #2</cmt>
+<desc>Rippling Brook Camp #2</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-RIPPBR2</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53732510" lon="-109.04210130">
+<ele>1549.603</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-STATELIN</name>
+<cmt>Stateline Camp</cmt>
+<desc>Stateline Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-STATELIN</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46779960" lon="-108.63834630">
+<time>2009-05-02T03:33:22Z</time>
+<name>C-TEEPEE</name>
+<cmt>Teepee Camp</cmt>
+<desc>Teepee Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-TEEPEE</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51006220" lon="-109.12115530">
+<ele>1510.894</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-THECOVE</name>
+<cmt>The Cove Camp</cmt>
+<desc>The Cove Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-THECOVE</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.59849730" lon="-108.95619440">
+<ele>1581.912</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-TRIPLETT</name>
+<cmt>Triplett Camp</cmt>
+<desc>Triplett Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-TRIPLETT</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.69407740" lon="-108.90208440">
+<ele>1623.670</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-WADE&amp;CUR</name>
+<cmt>Wade &amp; Curtis Camp</cmt>
+<desc>Wade &amp; Curtis Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-WADE&amp;CUR</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53172770" lon="-108.93209070">
+<ele>1561.186</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-WARMSPRG</name>
+<cmt>Warm Springs Camp</cmt>
+<desc>Warm Springs Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-WARMSPRG</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.57263950" lon="-108.97622500">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>C-WILDMTN</name>
+<cmt>Wild Mountain Camp</cmt>
+<desc>Wild Mountain Camp</desc>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:32.581Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>C-WILDMTN</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+<extensions>
+<point_symbol xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">marker</point_symbol>
+<marker xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" url="http://www.topografix.com/Symbols/NPS_Campground/Campground.png"/>
+</extensions>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53025140" lon="-108.96815400">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-1</name>
+<cmt>Yampa River Mile 1</cmt>
+<desc>Yampa River Mile 1</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-1</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48505150" lon="-108.90997570">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-10</name>
+<cmt>Yampa River Mile 10</cmt>
+<desc>Yampa River Mile 10</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-10</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47207290" lon="-108.90402930">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-11</name>
+<cmt>Yampa River Mile 11</cmt>
+<desc>Yampa River Mile 11</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-11</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47743970" lon="-108.88827840">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-12</name>
+<cmt>Yampa River Mile 12</cmt>
+<desc>Yampa River Mile 12</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-12</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49033060" lon="-108.87968200">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-13</name>
+<cmt>Yampa River Mile 13</cmt>
+<desc>Yampa River Mile 13</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-13</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49139290" lon="-108.87085400">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-14</name>
+<cmt>Yampa River Mile 14</cmt>
+<desc>Yampa River Mile 14</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-14</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48588360" lon="-108.86513710">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-15</name>
+<cmt>Yampa River Mile 15</cmt>
+<desc>Yampa River Mile 15</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-15</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48290460" lon="-108.86234370">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-16</name>
+<cmt>Yampa River Mile 16</cmt>
+<desc>Yampa River Mile 16</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-16</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47651930" lon="-108.86327970">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-17</name>
+<cmt>Yampa River Mile 17</cmt>
+<desc>Yampa River Mile 17</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-17</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47202890" lon="-108.86189760">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-18</name>
+<cmt>Yampa River Mile 18</cmt>
+<desc>Yampa River Mile 18</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-18</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46582980" lon="-108.85953660">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-19</name>
+<cmt>Yampa River Mile 19</cmt>
+<desc>Yampa River Mile 19</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-19</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52064620" lon="-108.95943620">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-2</name>
+<cmt>Yampa River Mile 2</cmt>
+<desc>Yampa River Mile 2</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-2</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46554510" lon="-108.84457180">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-20</name>
+<cmt>Yampa River Mile 20</cmt>
+<desc>Yampa River Mile 20</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-20</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45078150" lon="-109.25877470">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-200</name>
+<cmt>Green River Mile 200</cmt>
+<desc>Green River Mile 200</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-200</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45691130" lon="-109.26895790">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-201</name>
+<cmt>Green River Mile 201</cmt>
+<desc>Green River Mile 201</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-201</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45860190" lon="-109.25092740">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-202</name>
+<cmt>Green River Mile 202</cmt>
+<desc>Green River Mile 202</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-202</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46399440" lon="-109.23365510">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-203</name>
+<cmt>Green River Mile 203</cmt>
+<desc>Green River Mile 203</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-203</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46504900" lon="-109.21531790">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-204</name>
+<cmt>Green River Mile 204</cmt>
+<desc>Green River Mile 204</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-204</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46649570" lon="-109.19772430">
+<ele>1487.424</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-205</name>
+<cmt>Green River Mile 205</cmt>
+<desc>Green River Mile 205</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-205</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47200240" lon="-109.18314440">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-206</name>
+<cmt>Green River Mile 206</cmt>
+<desc>Green River Mile 206</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-206</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48491240" lon="-109.18107250">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-207</name>
+<cmt>Green River Mile 207</cmt>
+<desc>Green River Mile 207</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-207</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49662220" lon="-109.17095920">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-208</name>
+<cmt>Green River Mile 208</cmt>
+<desc>Green River Mile 208</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-208</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.50259220" lon="-109.15485570">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-209</name>
+<cmt>Green River Mile 209</cmt>
+<desc>Green River Mile 209</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-209</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47785280" lon="-108.83844960">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-21</name>
+<cmt>Yampa River Mile 21</cmt>
+<desc>Yampa River Mile 21</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-21</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51409980" lon="-109.15496940">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-211</name>
+<cmt>Green River Mile 211</cmt>
+<desc>Green River Mile 211</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-211</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52141520" lon="-109.15516010">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-212</name>
+<cmt>Green River Mile 212</cmt>
+<desc>Green River Mile 212</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-212</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51654390" lon="-109.14004080">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-213</name>
+<cmt>Green River Mile 213</cmt>
+<desc>Green River Mile 213</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-213</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51222910" lon="-109.12205840">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-214</name>
+<cmt>Green River Mile 214</cmt>
+<desc>Green River Mile 214</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-214</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51376250" lon="-109.10972640">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-215</name>
+<cmt>Green River Mile 215</cmt>
+<desc>Green River Mile 215</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-215</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52075000" lon="-109.09410930">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-216</name>
+<cmt>Green River Mile 216</cmt>
+<desc>Green River Mile 216</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-216</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53356430" lon="-109.08765420">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-217</name>
+<cmt>Green River Mile 217</cmt>
+<desc>Green River Mile 217</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-217</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53979650" lon="-109.07178790">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-218</name>
+<cmt>Green River Mile 218</cmt>
+<desc>Green River Mile 218</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-218</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54074910" lon="-109.05453610">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-219</name>
+<cmt>Green River Mile 219</cmt>
+<desc>Green River Mile 219</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-219</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48383290" lon="-108.82318640">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-22</name>
+<cmt>Yampa River Mile 22</cmt>
+<desc>Yampa River Mile 22</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-22</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53628070" lon="-109.03789010">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-220</name>
+<cmt>Green River Mile 220</cmt>
+<desc>Green River Mile 220</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-220</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53658440" lon="-109.02025520">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-221</name>
+<cmt>Green River Mile 221</cmt>
+<desc>Green River Mile 221</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-221</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54483920" lon="-109.00676760">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-222</name>
+<cmt>Green River Mile 222</cmt>
+<desc>Green River Mile 222</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-222</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53735040" lon="-108.99356530">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-223</name>
+<cmt>Green River Mile 223</cmt>
+<desc>Green River Mile 223</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-223</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52513440" lon="-108.99141560">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-224</name>
+<cmt>Green River Mile 224</cmt>
+<desc>Green River Mile 224</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-224</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52692710" lon="-108.98468240">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-225</name>
+<cmt>Green River Mile 225</cmt>
+<desc>Green River Mile 225</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-225</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54058180" lon="-108.98509890">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-226</name>
+<cmt>Green River Mile 226</cmt>
+<desc>Green River Mile 226</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-226</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54474390" lon="-108.96797710">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-227</name>
+<cmt>Green River Mile 227</cmt>
+<desc>Green River Mile 227</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-227</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.55741590" lon="-108.96270150">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-228</name>
+<cmt>Green River Mile 228</cmt>
+<desc>Green River Mile 228</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-228</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.56816010" lon="-108.97316820">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-229</name>
+<cmt>Green River Mile 229</cmt>
+<desc>Green River Mile 229</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-229</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48022960" lon="-108.81150830">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-23</name>
+<cmt>Yampa River Mile 23</cmt>
+<desc>Yampa River Mile 23</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-23</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.58047050" lon="-108.98144540">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-230</name>
+<cmt>Green River Mile 230</cmt>
+<desc>Green River Mile 230</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-230</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.59286400" lon="-108.98245880">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-231</name>
+<cmt>Green River Mile 231</cmt>
+<desc>Green River Mile 231</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-231</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.59445410" lon="-108.96460050">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-232</name>
+<cmt>Green River Mile 232</cmt>
+<desc>Green River Mile 232</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-232</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.60357660" lon="-108.95173020">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-233</name>
+<cmt>Green River Mile 233</cmt>
+<desc>Green River Mile 233</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-233</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.61577820" lon="-108.94575130">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-234</name>
+<cmt>Green River Mile 234</cmt>
+<desc>Green River Mile 234</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-234</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.62915080" lon="-108.94243780">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-235</name>
+<cmt>Green River Mile 235</cmt>
+<desc>Green River Mile 235</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-235</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.63859050" lon="-108.93377890">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-236</name>
+<cmt>Green River Mile 236</cmt>
+<desc>Green River Mile 236</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-236</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.65111990" lon="-108.92869820">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-237</name>
+<cmt>Green River Mile 237</cmt>
+<desc>Green River Mile 237</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-237</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.66075810" lon="-108.91714900">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-238</name>
+<cmt>Green River Mile 238</cmt>
+<desc>Green River Mile 238</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-238</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.66773470" lon="-108.90276820">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-239</name>
+<cmt>Green River Mile 239</cmt>
+<desc>Green River Mile 239</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-239</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49387940" lon="-108.81309530">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-24</name>
+<cmt>Yampa River Mile 24</cmt>
+<desc>Yampa River Mile 24</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-24</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.68191780" lon="-108.90305740">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-240</name>
+<cmt>Green River Mile 240</cmt>
+<desc>Green River Mile 240</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-240</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.69489640" lon="-108.90143980">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-241</name>
+<cmt>Green River Mile 241</cmt>
+<desc>Green River Mile 241</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-241</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.70746950" lon="-108.89638440">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-242</name>
+<cmt>Green River Mile 242</cmt>
+<desc>Green River Mile 242</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-242</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.71961590" lon="-108.89274400">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-243</name>
+<cmt>Green River Mile 243</cmt>
+<desc>Green River Mile 243</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-243</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.73124720" lon="-108.88655930">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-244</name>
+<cmt>Green River Mile 244</cmt>
+<desc>Green River Mile 244</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-244</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.74455430" lon="-108.88459400">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-245</name>
+<cmt>Green River Mile 245</cmt>
+<desc>Green River Mile 245</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-245</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49743500" lon="-108.79666930">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-25</name>
+<cmt>Yampa River Mile 25</cmt>
+<desc>Yampa River Mile 25</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-25</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.50214800" lon="-108.77940650">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-26</name>
+<cmt>Yampa River Mile 26</cmt>
+<desc>Yampa River Mile 26</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-26</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49267870" lon="-108.77250410">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-27</name>
+<cmt>Yampa River Mile 27</cmt>
+<desc>Yampa River Mile 27</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-27</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48472740" lon="-108.76011050">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-28</name>
+<cmt>Yampa River Mile 28</cmt>
+<desc>Yampa River Mile 28</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-28</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49264990" lon="-108.74615850">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-29</name>
+<cmt>Yampa River Mile 29</cmt>
+<desc>Yampa River Mile 29</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-29</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52691090" lon="-108.94571980">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-3</name>
+<cmt>Yampa River Mile 3</cmt>
+<desc>Yampa River Mile 3</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-3</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48227850" lon="-108.73472420">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-30</name>
+<cmt>Yampa River Mile 30</cmt>
+<desc>Yampa River Mile 30</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-30</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47552090" lon="-108.71961930">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-31</name>
+<cmt>Yampa River Mile 31</cmt>
+<desc>Yampa River Mile 31</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-31</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47372450" lon="-108.70360890">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-32</name>
+<cmt>Yampa River Mile 32</cmt>
+<desc>Yampa River Mile 32</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-32</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46958440" lon="-108.68598700">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-33</name>
+<cmt>Yampa River Mile 33</cmt>
+<desc>Yampa River Mile 33</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-33</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46675860" lon="-108.66957540">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-34</name>
+<cmt>Yampa River Mile 34</cmt>
+<desc>Yampa River Mile 34</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-34</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45802980" lon="-108.65841890">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-35</name>
+<cmt>Yampa River Mile 35</cmt>
+<desc>Yampa River Mile 35</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-35</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46931080" lon="-108.64632630">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-36</name>
+<cmt>Yampa River Mile 36</cmt>
+<desc>Yampa River Mile 36</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-36</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46227940" lon="-108.63242010">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-37</name>
+<cmt>Yampa River Mile 37</cmt>
+<desc>Yampa River Mile 37</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-37</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45250920" lon="-108.62286180">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-38</name>
+<cmt>Yampa River Mile 38</cmt>
+<desc>Yampa River Mile 38</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-38</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.44585020" lon="-108.61330510">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-39</name>
+<cmt>Yampa River Mile 39</cmt>
+<desc>Yampa River Mile 39</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-39</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53090850" lon="-108.93106550">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-4</name>
+<cmt>Yampa River Mile 4</cmt>
+<desc>Yampa River Mile 4</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-4</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45052680" lon="-108.59947430">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-40</name>
+<cmt>Yampa River Mile 40</cmt>
+<desc>Yampa River Mile 40</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-40</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45857720" lon="-108.58377170">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-41</name>
+<cmt>Yampa River Mile 41</cmt>
+<desc>Yampa River Mile 41</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-41</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46706530" lon="-108.57137760">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-42</name>
+<cmt>Yampa River Mile 42</cmt>
+<desc>Yampa River Mile 42</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-42</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47110650" lon="-108.55552730">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-43</name>
+<cmt>Yampa River Mile 43</cmt>
+<desc>Yampa River Mile 43</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-43</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46120570" lon="-108.54694700">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-44</name>
+<cmt>Yampa River Mile 44</cmt>
+<desc>Yampa River Mile 44</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-44</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45537900" lon="-108.53497000">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-45</name>
+<cmt>Yampa River Mile 45</cmt>
+<desc>Yampa River Mile 45</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-45</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45104060" lon="-108.51749650">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-46</name>
+<cmt>Yampa River Mile 46</cmt>
+<desc>Yampa River Mile 46</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-46</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52354860" lon="-108.91625340">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-5</name>
+<cmt>Yampa River Mile 5</cmt>
+<desc>Yampa River Mile 5</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-5</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52050390" lon="-108.92991170">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-6</name>
+<cmt>Yampa River Mile 6</cmt>
+<desc>Yampa River Mile 6</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-6</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51285920" lon="-108.92244920">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-7</name>
+<cmt>Yampa River Mile 7</cmt>
+<desc>Yampa River Mile 7</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-7</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.50452460" lon="-108.91753760">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-8</name>
+<cmt>Yampa River Mile 8</cmt>
+<desc>Yampa River Mile 8</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-8</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49506730" lon="-108.90997980">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>M-9</name>
+<cmt>Yampa River Mile 9</cmt>
+<desc>Yampa River Mile 9</desc>
+<sym>Navaid, Red</sym>
+<type>Mileage</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:35:50.661Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M-9</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45946280" lon="-108.62834800">
+<ele>1767.840</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-3PINNACL</name>
+<cmt>Three Pinnacles</cmt>
+<desc>Three Pinnacles</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-3PINNACL</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.51815580" lon="-109.14224260">
+<ele>1513.942</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-BISNPTRO</name>
+<cmt>Bison Petroglyph</cmt>
+<desc>Bison Petroglyph</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-BISNPTRO</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.44665580" lon="-108.51170320">
+<ele>1713.890</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-DEERLODG</name>
+<cmt>Deer Lodge Launch Area</cmt>
+<desc>Deer Lodge Launch Area</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-DEERLODG</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.54491080" lon="-109.01169070">
+<ele>1536.192</ele>
+<time>2009-05-02T03:22:51Z</time>
+<name>P-DJINSCRIP</name>
+<cmt>Denis Julien Inscription (approximate location)</cmt>
+<desc>Denis Julien Inscription (approximate location)</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-DJINSCRIP</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52099980" lon="-108.99027300">
+<time>2009-05-02T03:19:29Z</time>
+<name>P-ECHOPARK</name>
+<cmt>Echo Park Boat Landing</cmt>
+<desc>Echo Park Boat Landing</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-ECHOPARK</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48468130" lon="-108.87331390">
+<ele>1572.768</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-GRNDHANG</name>
+<cmt>Grand Overhang</cmt>
+<desc>Grand Overhang</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-GRNDHANG</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46313340" lon="-109.23421310">
+<time>2009-05-02T03:28:53Z</time>
+<name>P-HATCHBCH</name>
+<cmt>Hatch Beach</cmt>
+<desc>Hatch Beach</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-HATCHBCH</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46329020" lon="-108.66875410">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-HAYSTACK</name>
+<cmt>Haystack Rock</cmt>
+<desc>Haystack Rock</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-HAYSTACK</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.72739150" lon="-108.88831610">
+<ele>1633.118</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-LODORAMP</name>
+<cmt>Lodore Boat Ramp</cmt>
+<desc>Lodore Boat Ramp</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-LODORAMP</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46682170" lon="-108.90146120">
+<ele>1609.344</ele>
+<time>2009-05-02T03:37:54Z</time>
+<name>P-MANTLCAV</name>
+<cmt>Mantle Cave Archaeological Site</cmt>
+<desc>Mantle Cave Archaeological Site</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-MANTLCAV</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47496320" lon="-108.88953210">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-MNTLRNCH</name>
+<cmt>Mantle Ranch</cmt>
+<desc>Mantle Ranch</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-MNTLRNCH</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49517260" lon="-109.17377970">
+<time>2009-05-02T03:27:10Z</time>
+<name>P-RNBOWPRK</name>
+<cmt>Rainbow Park Boat Ramp</cmt>
+<desc>Rainbow Park Boat Ramp</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-RNBOWPRK</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.53883120" lon="-109.01730100">
+<ele>1544.422</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-SEACLIFF</name>
+<cmt>Sea Cliff Beach</cmt>
+<desc>Sea Cliff Beach</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-SEACLIFF</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45316140" lon="-108.52398020">
+<ele>1717.548</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-SHANKCAB</name>
+<cmt>Shank Dugout Cabin</cmt>
+<desc>Shank Dugout Cabin</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-SHANKCAB</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46992270" lon="-108.84846870">
+<ele>1609.344</ele>
+<time>2009-05-02T03:36:47Z</time>
+<name>P-SIGNATUR</name>
+<cmt>Signature Cave</cmt>
+<desc>Signature Cave</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-SIGNATUR</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.44547490" lon="-109.25267130">
+<ele>1472.184</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>P-SPLITMTN</name>
+<cmt>Split Mountain Boat Ramp</cmt>
+<desc>Split Mountain Boat Ramp</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-SPLITMTN</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46762470" lon="-108.57715130">
+<time>2009-05-02T03:32:11Z</time>
+<name>P-STUBSCAB</name>
+<cmt>Stubs Cabin</cmt>
+<desc>Stubs Cabin</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-STUBSCAB</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49535720" lon="-108.91592460">
+<time>2009-05-02T03:39:16Z</time>
+<name>P-TIGRWALL</name>
+<cmt>Tiger Wall</cmt>
+<desc>Tiger Wall</desc>
+<sym>Flag, Green</sym>
+<type>POI</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:31.486Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P-TIGRWALL</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.55214520" lon="-108.96299800">
+<time>2009-05-02T03:18:31Z</time>
+<name>R-227-6_MI</name>
+<cmt>227.6 Mile Rapid</cmt>
+<desc>227.6 Mile Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-227-6_MI</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.57398920" lon="-108.97698120">
+<ele>1579.169</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-229-5_MI</name>
+<cmt>229.5 Mile Rapid</cmt>
+<desc>229.5 Mile Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-229-5_MI</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.59002970" lon="-108.98450050">
+<time>2009-05-02T03:16:02Z</time>
+<name>R-230-7_MI</name>
+<cmt>230.7 Mile Rapid</cmt>
+<desc>230.7 Mile Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-230-7_MI</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.59412730" lon="-108.98013320">
+<time>2009-05-02T03:13:08Z</time>
+<name>R-231-2_MI</name>
+<cmt>231.2 Mile Rapid</cmt>
+<desc>231.2 Mile Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-231-2_MI</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.65997340" lon="-108.91806840">
+<ele>1620.317</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-237-9_MI</name>
+<cmt>237.9 Mile Rapid</cmt>
+<desc>237.9 Mile Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-237-9_MI</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.66617830" lon="-108.90826150">
+<ele>1620.926</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-238-7_MI</name>
+<cmt>238.7 Mile Rapid</cmt>
+<desc>238.7 Mile Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-238-7_MI</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.50172860" lon="-108.77307580">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-5SPRINGS</name>
+<cmt>Five Springs Rapid</cmt>
+<desc>Five Springs Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-5SPRINGS</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.49146980" lon="-108.81381200">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-BIGJOE</name>
+<cmt>Big Joe Rapid</cmt>
+<desc>Big Joe Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-BIGJOE</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52451760" lon="-109.09113020">
+<ele>1523.695</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-GRSYPLRS</name>
+<cmt>Greasy Pliers Rapid</cmt>
+<desc>Greasy Pliers Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-GRSYPLRS</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.61444640" lon="-108.94607530">
+<ele>1588.922</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-HARPFLLS</name>
+<cmt>Harp Falls</cmt>
+<desc>Harp Falls</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-HARPFLLS</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.59538910" lon="-108.96829330">
+<time>2009-05-02T03:12:38Z</time>
+<name>R-HELLSHLF</name>
+<cmt>Hells Half Mile</cmt>
+<desc>Hells Half Mile</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-HELLSHLF</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.45865490" lon="-109.26128520">
+<ele>1466.698</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-INGLESBY</name>
+<cmt>Inglesby Rapid</cmt>
+<desc>Inglesby Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-INGLESBY</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.48959800" lon="-108.73916000">
+<ele>1638.300</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-LITTLJOE</name>
+<cmt>Little Joe Rapid</cmt>
+<desc>Little Joe Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-LITTLJOE</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.64573760" lon="-108.93222490">
+<ele>1614.167</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-LWRDSTSR</name>
+<cmt>Lower Disaster Falls</cmt>
+<desc>Lower Disaster Falls</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-LWRDSTSR</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47695920" lon="-109.18059230">
+<ele>1513.332</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-MOONSHIN</name>
+<cmt>Moonshine Rapid</cmt>
+<desc>Moonshine Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-MOONSHIN</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46669700" lon="-109.20175000">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-SCOOLBOY</name>
+<cmt>Schoolboy Rapid</cmt>
+<desc>Schoolboy Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-SCOOLBOY</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46769420" lon="-109.19257060">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-SOB</name>
+<cmt>SOB Rapid</cmt>
+<desc>SOB Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-SOB</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.46771170" lon="-108.64076930">
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-TEEPEE</name>
+<cmt>Teepee Rapid</cmt>
+<desc>Teepee Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-TEEPEE</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.59753700" lon="-108.95784940">
+<ele>1578.559</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-TRIPLETT</name>
+<cmt>Triplett Falls</cmt>
+<desc>Triplett Falls</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-TRIPLETT</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.65177810" lon="-108.92779300">
+<ele>1618.253</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-UPRDSTSR</name>
+<cmt>Upper Disaster Falls</cmt>
+<desc>Upper Disaster Falls</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-UPRDSTSR</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.52913710" lon="-108.92750450">
+<ele>1549.908</ele>
+<time>2014-03-17T03:33:05.583Z</time>
+<name>R-WARMSPRG</name>
+<cmt>Warm Springs Rapid</cmt>
+<desc>Warm Springs Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-WARMSPRG</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.68508950" lon="-108.90390840">
+<time>2009-05-02T03:05:28Z</time>
+<name>R-WINNIES</name>
+<cmt>Winnies Rapid</cmt>
+<desc>Winnies Rapid</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-WINNIES</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.47202393" lon="-108.56242966">
+<time>2014-03-17T03:34:11.187Z</time>
+<name>R-RAPID-II</name>
+<cmt>Rapid (II)</cmt>
+<desc>Rapid (II)</desc>
+<sym>Danger Area</sym>
+<type>Rapid</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2014-03-17T03:36:19.858Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>R-RAPID-II</label_text>
+<text xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<font>
+<family generic="sans-serif">
+<face>Arial</face>
+</family>
+<weight>bold</weight>
+</font>
+</text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>
